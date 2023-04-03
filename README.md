@@ -17,3 +17,4 @@ G-buffer | Pipeline
 
 - [An efficient denoising algorithm for global illumination](https://cs.dartmouth.edu/wjarosz/publications/mara17towards.html)
 
+- [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting](https://cs.dartmouth.edu/wjarosz/publications/bitterli20spatiotemporal.html)
